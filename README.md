@@ -1,0 +1,2 @@
+# Project Idea
+This API allows users to upload images, organize them into albums, add tags, and perform searches based on tags. The API also includes caching capabilities using Redis to enhance performance.
